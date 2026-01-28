@@ -1,4 +1,7 @@
 #  The Rail-Switch Mechanism
+
+DOI : 10.5281/zenodo.18402540
+
 ### Topological Bifurcation & Singularity Resolution in ECSK Cosmology
 
 **Principal Investigator:** William M. Holden  
