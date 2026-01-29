@@ -2,7 +2,7 @@
 **DOI: [10.5281/zenodo.18410348](https://doi.org/10.5281/zenodo.18410348)**  
 **+0.9% CMB 7-peak shift vs ΛCDM** | *William M. Holden | Fullerton, CA | Jan 28, 2026*
 
-[![CMB Fingerprint](planck_analytic.png)](Rail_Switch_Theory/planck_analytic.png)
+[![CMB Fingerprint](bounce_planck_analytic.png)](Rail_Switch_Theory/planck_analytic.png)
 
 ## **DISCOVERY SUMMARY**
 * **The Problem:** Standard Big Bang theory predicts a "Singularity" (Infinite Density), which breaks the laws of physics.
@@ -39,3 +39,4 @@ This creates a repulsive potential that prevents the radius $a(t)$ from ever rea
 ---
 
 *Dedicated to the curiosity of the next generation.*
+
