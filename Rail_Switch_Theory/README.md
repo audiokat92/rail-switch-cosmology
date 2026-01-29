@@ -1,9 +1,27 @@
 # 🚂 Rail-Switch Torsion Cosmology
 **DOI: [10.5281/zenodo.18410348](https://doi.org/10.5281/zenodo.18410348)**  
 
-🚀 LATEST RESULTS (Jan 29): S8 Tension Resolved (0.759) with Preserved Sound Horizon. See Paper_Submission_Jan2026.
-<img width="4200" height="3000" alt="rail_switch_master_plot" src="https://github.com/user-attachments/assets/b47feeab-5a73-465f-b463-7631673cd176" />
+**William M. Holden | Fullerton, CA | DOI: 10.5281/zenodo.18421771**
+(Please remember, I am just a frickin' dude who saw a pattern... Citizen Research, thank you, ❤️)
 
+## Canonical Results (Jan 29, 2026)
+
+| Model | S8 | CMB χ² (7 peaks) | DESI Tension |
+|-------|----|------------------|--------------|
+| Planck ΛCDM | 0.8228 | 50108.12 | 3.5σ |
+| **Rail-Switch** | **0.7593** | **50107.21** | **1.4σ** |
+| DESI Y1 Target | 0.776 | - | 0.0σ |
+
+**Key Finding:** Single parameter set (Ω_k=-0.0025, A_s×0.981) simultaneously:
+- Fits Planck TT peaks equivalently to ΛCDM
+- Reduces S8 tension 3.5σ → 1.4σ (60% improvement)
+
+## Physical Basis
+**Einstein-Cartan → Bounce Mechanism:**
+
+## Figures
+[![S8 Tension](s8_tension_masterplot.png)](s8_tension_masterplot.png)
+[![CMB Peaks](rail_switch_phase5_victory.png)](rail_switch_phase5_victory.png)
 [![CMB Fingerprint](bounce_planck_analytic.png)](Rail_Switch_Theory/planck_analytic.png)
 
 ## **DISCOVERY SUMMARY**
@@ -28,6 +46,7 @@ Galaxy k=0.1	Baseline	+1.4%	DESI 2026
 * **`Final_White_Paper.pdf`**: The full research note including the Hehl-Datta derivation and Cusp Catastrophe topological proof.
 * **`simulation.py`**: A Python script using `scipy.integrate` to numerically solve the modified Friedmann equations and demonstrate the bounce.
 * **`spacetime_torsion.png`**: Visual schematic of the bifurcation event.
+* **rail_switch_research.ipynb** Notebook with code and equations to see.
 * Zenodo: https://zenodo.org/records/18410348
 * Jupyter: Rail_Switch_Theory/rail_switch_research.ipynb
 
@@ -41,5 +60,6 @@ This creates a repulsive potential that prevents the radius $a(t)$ from ever rea
 ---
 
 *Dedicated to the curiosity of the next generation.*
+
 
 
