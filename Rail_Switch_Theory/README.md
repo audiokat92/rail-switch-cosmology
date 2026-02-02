@@ -1,7 +1,7 @@
 # 🚂 Rail-Switch Torsion Cosmology
 **DOI: [10.5281/zenodo.18410348](https://doi.org/10.5281/zenodo.18410348)**  
 
-**William M. Holden | Fullerton, CA | DOI: 10.5281/zenodo.18421771**
+**William M. Holden | CA | DOI: 10.5281/zenodo.18421771**
 (Please remember, I am just a frickin' dude who saw a pattern... Citizen Research, thank you, ❤️)
 
 ## Canonical Results (Jan 29, 2026)
@@ -60,6 +60,7 @@ This creates a repulsive potential that prevents the radius $a(t)$ from ever rea
 ---
 
 *Dedicated to the curiosity of the next generation.*
+
 
 
 
